@@ -9,5 +9,3 @@ circle(40, 180)
 forward(100)
 end_fill()
 done()
-forward(100)
-
